@@ -1,0 +1,5 @@
+{
+  "name": "H100 Tensor Core Explorer",
+  "description": "An interactive visualization of the Nvidia H100 Distributed Accumulator, WGMMA sharding, and stmatrix reassembly.",
+  "requestFramePermissions": []
+}
